@@ -8,4 +8,3 @@
 <p align="center">
   <a href="https://www.cerebellis.com/">Read more</a>
 </p>
-<br>
