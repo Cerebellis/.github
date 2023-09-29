@@ -1,4 +1,3 @@
-<br>
 <p align="center">
   <img src="https://www.cerebellis.com/cerebellis/ui/img/cerebellis-logo.png" style="width: 200px; max-width: 50%;"/>
 </p>
