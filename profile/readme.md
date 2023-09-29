@@ -7,3 +7,8 @@
 <p align="center">
   <a href="https://www.cerebellis.com/">Read more</a>
 </p>
+<style>
+  .Box.mb-4+.js-pinned-items-reorder-container{
+    display: none;
+  }
+</style>
